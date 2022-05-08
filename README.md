@@ -1,2 +1,0 @@
-# aleccoyner.com
-Personal Website
