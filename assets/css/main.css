@@ -1753,15 +1753,15 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.image.avatar60 {
-			width: 60px;
-			height: 60px;
+		.image.avatar100 {
+			width: 100px;
+			height: 100px;
 			background: #000;
 		}
 
-			.image.avatar60 img {
-				width: 60px;
-				height: 60px;
+			.image.avatar100 img {
+				width: 100px;
+				height: 100px;
 			}
 
 		.image.fit {
