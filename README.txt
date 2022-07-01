@@ -1,9 +1,6 @@
 Alec's Website by Alec Coyner
 aleccoyner.github.io
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
 Credits:
 
 	Icons:
